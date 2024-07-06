@@ -1,2 +1,1 @@
-# ConversorDeMonedas
-Aplicación de consola con Java
+<em> # RETO ALURA LATAM - CONVERSOR DE MONEDA </em>
