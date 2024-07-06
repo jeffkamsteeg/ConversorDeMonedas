@@ -9,3 +9,5 @@
 
 
 ![retoConversorFoto03](https://github.com/jeffkamsteeg/ConversorDeMonedas/assets/61770279/534cf095-84a2-40cc-bfb4-8019ecc9892e)
+
+<p> En este reto podemos convertir una moneda a otra, además de elegir la cantidad a conertir, usando la API externa. Aplicación de consola en JAVA que usa una estructura de 3 archivos, 2 clases y 1 record.</p>
